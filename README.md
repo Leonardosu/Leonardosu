@@ -3,8 +3,8 @@
 #### 📊 Github Stats
  <div>
   <a href="https://github.com/Leonardosu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardosu&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardosu&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Leonardosu&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardosu&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&layout=compact"/>
   </div> 
   
 ![GitHub followers](https://img.shields.io/github/followers/Leonardosu?label=Seguir&style=social)
